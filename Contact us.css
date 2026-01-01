@@ -1,0 +1,50 @@
+h2{
+    font-family: Georgia, serif;
+    text-align: center;
+    color: #8f6437;
+}
+
+.left{
+    float:left;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+     color: #8f6437;
+}
+
+
+.links a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    font-size: 30px;
+     color: #8f6437;
+}
+
+a:hover{
+    color: white;
+}
+
+#whatsapp{
+    width: 37px;
+    height:auto;
+    float: right;
+    margin-left: 5px;
+}
+
+.logo{
+    height: auto;
+    width: 50;
+    float: right;
+    margin-left: 10px;
+}
+
+.right{
+    float: right;
+    font-size: 30px;
+    margin-top: 2px;
+    color: #8f6437;
+}
+
+
+

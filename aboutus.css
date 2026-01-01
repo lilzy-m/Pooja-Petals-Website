@@ -1,0 +1,48 @@
+.h1{
+    font-family: Georgia, serif;
+    color: #654522;
+    text-align: center;
+}
+.p1{
+    color: #8e6335;
+    text-align: right;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    max-width: 50%; 
+    margin-left: auto;
+    margin-right: 0;
+    font-size: 25px;
+    float: right;
+}
+.foundimg{
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    width: 450px;
+    border: #654522 solid 15px;
+    border-radius: 50%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.p2{
+    color: #8e6335;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    max-width: 50%; 
+    margin-left: 0;
+    margin-right: auto;
+    font-size: 25px;
+    float: left;
+}
+
+.shopimg{
+     display: block;
+    margin-left: auto;
+    margin-right: 0;
+    width: 550px;
+    border: #654522 solid 15px;
+    border-radius: 50%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,25 @@
+html,body{
+    height: 100%;
+}
+
+#container{
+    min-height: 100%;
+}
+#main{
+    overflow: auto;
+    padding-bottom: 5px;
+}
+
+#footer{
+    background-color: #8f6437;
+    color: #FFE6CC;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    height: 50px;
+    margin-top: -50px;
+    clear: both;
+    text-align: center;
+    line-height: 40px;
+    font-family: Inconsolata, monospace;
+}
